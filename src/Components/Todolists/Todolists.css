@@ -1,0 +1,11 @@
+.card{
+    margin:0 0 1rem 0;
+}
+.card-body{
+   
+    display:grid !important;
+    
+}
+.card_container{
+    height:600px;
+}
